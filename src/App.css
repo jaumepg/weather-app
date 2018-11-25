@@ -30,3 +30,29 @@
     transform: rotate(360deg);
   }
 }
+
+.details{
+  background-color: #999;
+  height: 85vh;
+  width: 100%;
+  margin-top:90px;
+  overflow: auto;
+  padding: 20px;
+}
+
+.forecast_title{
+  color:white;
+  text-align:center;
+  
+}
+
+.locations{
+  height: 85vh;
+  width: 100%;
+  margin-top:90px;
+  overflow: auto;
+}
+
+.weatherDataCont{
+  cursor: pointer;
+}
