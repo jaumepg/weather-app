@@ -55,4 +55,9 @@
 
 .weatherDataCont{
   cursor: pointer;
+  padding-left: 25px;
+}
+
+.pt-15{
+  margin-top: 15px;
 }
